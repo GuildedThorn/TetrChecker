@@ -17,3 +17,5 @@ Name1
 Name2
 Name3
 ```
+
+### Any unused names will be dumped into list.txt
